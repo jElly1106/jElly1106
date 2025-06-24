@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=jElly1106&color=blue)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=jElly1106.jElly1106)
 
 - 🔭 I’m currently a junior majoring in Software Engineering at the College of Computer Science and Technology, Tongji University.
 - 🌱 I’m deeply interested in Computer Vision / Embodied AI.
