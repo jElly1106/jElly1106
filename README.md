@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Pixel Counter](https://profile-counter.glitch.me/jElly1106/count.svg)  
+You are the ![Pixel Counter](https://profile-counter.glitch.me/jElly1106/count.svg) visitor.
 
 - 🔭 I’m currently a junior majoring in Software Engineering at the College of Computer Science and Technology, Tongji University.
 - 🌱 I’m deeply interested in Computer Vision / Embodied AI.
