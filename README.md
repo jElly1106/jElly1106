@@ -5,4 +5,4 @@
 - 💬 Ask me about:
   - The Machine Intelligence course in Tongji’s Software Engineering program.
   - Postgraduate recommendation experiences—happy to exchange insights!
-- 📫 How to reach me:2253406@tongji.edu.cn (may take 1-2 days to reply).
+- 📫 How to reach me: 2253406@tongji.edu.cn (may take 1-2 days to reply).
